@@ -1,0 +1,18 @@
+#bg {
+    background-image: url(RB.gif);
+}
+
+.header {
+    font-size: 100px;
+    font-style: italic;
+    color: red;
+    text-align: center;
+}
+
+.text {
+    font-size: 50px;
+}
+
+.editor {
+    margin-top: 300px;
+}
