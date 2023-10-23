@@ -9,9 +9,9 @@
 }
 
 .header {
+    background-color: rgb(30, 255, 0);
     font-size: 100px;
     font-style: italic;
-    color: red;
     text-align: center;
     margin: 0px;
 }
@@ -74,4 +74,12 @@
 #btn_8 {
     font-size: 30px;
     margin: 30px;
+}
+
+#btn_res {
+    font-size: 50px;
+    background-color: hotpink;
+    border: black solid 20px;
+    border-radius: 30px;
+    
 }
