@@ -2,11 +2,18 @@
     background-image: url(RB.gif);
 }
 
+#headerDiv {
+    border: red solid 30px;
+    border-radius: 20px;
+    margin-bottom: 150px;
+}
+
 .header {
     font-size: 100px;
     font-style: italic;
     color: red;
     text-align: center;
+    margin: 0px;
 }
 
 .text {
@@ -21,4 +28,50 @@
 
 .editor_1 {
     font-size: 25px;
+}
+
+/* 버튼 */
+.Btn {
+    margin: 100px;
+    text-align: center;
+}
+
+#btn_1 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_2 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_3 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_4 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_5 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_6 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_7 {
+    font-size: 30px;
+    margin: 30px;
+}
+
+#btn_8 {
+    font-size: 30px;
+    margin: 30px;
 }
